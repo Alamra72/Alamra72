@@ -8,6 +8,6 @@ Me estoy dedicando a desarrollar aplicaciones para la empresa donde he venido tr
 </br>
 Y aprendo más...
 
-[![Discord](https://img.shields.io/badge/Discord-alexanderAmu-5865F2?style=for-the-badge&logo=discord&logoColor=white&labelColor=101010)](https://alexanderAmu#2382/discord)
+[![Discord](https://img.shields.io/badge/Discord-alexanderAmu#2382-5865F2?style=for-the-badge&logo=discord&logoColor=white&labelColor=101010)](https://alexanderAmu#2382/discord)
 </br>
 [![TikTok](https://img.shields.io/badge/TikTok-@alexander_amu-69C9D0?style=for-the-badge&logo=tiktok&logoColor=white&labelColor=101010)](https://tiktok.com/@alexanderamu802)
