@@ -1,7 +1,7 @@
 ### Hola, mi nombre es ALEXANDER AMU
 ## Freelance Frontend
 
-Me estoy dedicando a desarrollar aplicaciones para la empresa donde he venido trabajadno y fundando mi propia startup.
+Me estoy dedicando a desarrollar aplicaciones para la empresa donde he venido trabajando y fundando mi propia startup.
 
 ## Tecnologías:
 [![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=white&labelColor=101010)]()
